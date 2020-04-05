@@ -1,2 +1,2 @@
-# My Second-project
+# Second-project
 I love you code *
